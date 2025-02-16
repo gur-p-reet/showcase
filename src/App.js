@@ -41,7 +41,7 @@ class App extends Component{
     	return (
 	    <div className="App" >	
 		    <nav className="content" >
-	    	    <a href="https://gur-p-reet.github.io/portfolio/"><item className="logo"> <img  src={myLogo} alt="logo"/> </item></a>
+	    	    <a href="https://gur-p-reet.github.io/showcase/"><item className="logo"> <img  src={myLogo} alt="logo"/> </item></a>
 	    		<a href="#projects"> <item className="contentItems"><GrProjects style={{verticalAlign:"middle"}}/> <h className="contentText" style={{verticalAlign:"middle"}}>&nbsp;Projects</h></item></a>
 	    		<a href="#about"><item className="contentItems"> <BsPersonFill style={{color:"skyblue",verticalAlign:"middle"}}/> <h className="contentText">&nbsp;About</h></item></a>
 	    		<a href="#education"><item className="contentItems"> <GiAchievement style={{color:"yellow",verticalAlign:"middle"}}/> <h className="contentText">&nbsp;Education</h></item></a>
@@ -271,12 +271,12 @@ class App extends Component{
 				      	</h3>
 				      	<p>M.Sc. (Computer Science)</p>
 			      	</div>
-			      	<div className="eduItems">
+			      	{/*<div className="eduItems">
 				    	<h3>
 				      		<a href="https://puchd.ac.in/" target='_blank' rel='noopener noreferrer'>Panjab University, Chandigarh, India</a>
 				      	</h3>
 				      	 M.Phil.,Ph.D. (Physics)
-				      	</div>
+				</div> */}
 			      	<div className="eduItems">
 				        <h3>
 				      		<a href="http://online.gndu.ac.in/" target='_blank' rel='noopener noreferrer'>Guru Nanak Dev University, Punjab, India</a>

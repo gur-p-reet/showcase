@@ -221,8 +221,8 @@ skills{
 .education{
   margin:50px;
   display:grid;
-  grid-gap: 30px;
-  grid-template-columns: repeat(auto-fill, minmax(350px,1fr));
+  grid-gap: 200px;
+  grid-template-columns: repeat(auto-fill, minmax(400px,1fr));
 
 }
 .eduItems{

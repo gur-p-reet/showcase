@@ -356,9 +356,9 @@ class App extends Component{
 
 			    <heading id="contacts" className="sectionHeading">Contact Me</heading>
 			    <contacts className="contacts">			    								
-					<h3 ><a href="mailto:gsl.gurpreet@gmail.com"> <GoMail className="contactsLogo"/> 
+					<h3 ><a href="mailto:gurpreet.singh.661633@gmail.com"> <GoMail className="contactsLogo"/> 
 					&nbsp;&nbsp;
-					<h className="contactsText">   gsl.gurpreet@gmail.com </h></a> </h3> 
+					<h className="contactsText"> gurpreet.singh.661633@gmail.com  </h></a> </h3> 
 			      	<h3><a href="https://github.com/gur-p-reet" target='_blank' rel='noopener noreferrer'> <GoMarkGithub className="contactsLogo"/> 
 			      	&nbsp;&nbsp;
 			      	<h className="contactsText"> https://github.com/gur-p-reet</h></a></h3>
